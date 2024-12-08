@@ -140,7 +140,7 @@ footer {
 }
 
 /* @media query for small screens */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   /* Header */
   header {
     padding: 1rem;
